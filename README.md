@@ -1,4 +1,4 @@
-# Discord Bot Portfolio Project
+# Discord Leaderboard Bot
 
 This Discord bot is a portfolio project demonstrating various features including user point tracking, leaderboards, and cryptocurrency wallet integration.
 
@@ -20,7 +20,7 @@ This Discord bot is a portfolio project demonstrating various features including
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-bot-portfolio.git
+   git clone https://github.com/YinsPeace/Discord-Leaderboard-Bot.git
    cd discord-bot-portfolio
    ```
 
@@ -136,4 +136,4 @@ npm test
 
 ## Contact
 
-For any questions or inquiries, please contact [your email](mailto:youremail@example.com).
+For any questions or inquiries, feel free to reach out!
